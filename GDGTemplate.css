@@ -1,0 +1,16 @@
+.learn{
+	
+	margin-bottom: 100px;
+	margin-top: 30px;
+	color:lightblue;
+	border:1px solid lightblue;
+}
+
+.learn:hover{
+	background-color:  lightblue;
+	color: #fff;
+	border:1px solid lightblue;
+}
+.item{
+	background-size: cover;
+}
